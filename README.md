@@ -1,1 +1,1 @@
-CourseWorkRationMaker
+courseWork
